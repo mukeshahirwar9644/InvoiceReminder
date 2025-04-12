@@ -1,0 +1,15 @@
+[
+    {
+      "id": "inv001",
+      "recipient": "Mukesh Ahirwar",
+      "amount": 1500,
+      "dueDate": "2025-04-05"
+    },
+    {
+      "id": "inv002",
+      "recipient": "Amit Sharma",
+      "amount": 2200,
+      "dueDate": "2025-04-08"
+    }
+  ]
+  
