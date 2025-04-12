@@ -105,7 +105,6 @@ user: 'mukesh',
 password: 'mukesh@123',
 database: 'mukesh_invoice'
 
-
 ________________________________________
 🚀 Running the Project
 📦 Start Backend
